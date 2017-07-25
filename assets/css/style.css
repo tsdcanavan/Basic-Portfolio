@@ -6,6 +6,10 @@ body {
 	margin: 30px;
 }
 
+p {
+	padding-left: 	2%;
+}
+
 nav{
   text-align: center;
 }
@@ -36,6 +40,7 @@ footer {
   font-size: 0.75em;
   clear: both;
   text-align: center;
+  margin-top: 	10px;
   padding-top: 10px;
   padding-bottom: 10px;
   color: #ccc;
@@ -79,9 +84,14 @@ footer {
 }
 
 #aboutBox {
+	position: 	relative;	
+	left: 	11%;
 	float: left;
-	width: 55%;
+	width: 45%;
+	margin: 20px 0 0 0;
 	padding: 20px 10px 20px 0px;
+	border: 3px solid gray;
+	background-color: 	white;
 }
 
 #aboutHeader {
@@ -90,31 +100,44 @@ footer {
 	color: #4aaaa5;
 	position: relative;
 	top: -15%;
-	left: 25%;
+	left: 5%;
+	border-bottom: 	3px solid	gray;
 }
+
 
 #aboutImage {
 	float: left;
 	width: 35%;
+	padding-right: 	2%
 }
 
 #aboutText {
-	width: 60%;
-	float: right;
+	width: 90%;
+	float: left;
+	padding-top: 	5%;
+	padding-left: 	5%;
 }
 
 #contactHeader {
 	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 	+1.5em;
 	color: #4aaaa5;
 	position: relative;
+	padding: 	5%;
 	top: -15%;
-	right: 35%;
+	right: 0%;
 }
 
 #contactBox {
+	left: 	11%;
 	float: right;
-	width: 30%;
-	padding: 20px 10px 20px 0px;
+	width: 20%;
+	height:  100px;
+	margin: 20px 90px 0 0;
+	padding: 20px 20px 20px 20px;
+	border: 3px solid gray;
+	background-color: 	white;
+
 }
 
 .contactLink {
