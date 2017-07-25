@@ -79,7 +79,8 @@ footer {
 }
 
 #backSpace {
-	background: #efefef;
+	background: #efefef; 
+	background-image: url("./assets/images/organic-tiles.png");
 	width: 90%;
 }
 
@@ -185,7 +186,7 @@ footer {
 .imageBlock a p {
 	position: relative;
 	color: black;
-	
+
 	bottom: -75px;
 	height: 	25px;
 	background-color: 	#4aaaa5;
