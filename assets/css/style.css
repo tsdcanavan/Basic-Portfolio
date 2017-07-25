@@ -102,6 +102,7 @@ footer {
 	top: -15%;
 	left: 5%;
 	border-bottom: 	3px solid	gray;
+	border-width: 	35%;
 }
 
 
@@ -140,6 +141,61 @@ footer {
 
 }
 
+#gallery {
+  margin: 0;
+  padding: 0;
+  float: 	auto;
+}
+
+
+#gallery img {
+	float: 	left;
+	width: 	150px;
+	padding-right: 	3px;
+}
+
+/*
+#gallery a p {
+	position: absolute;
+	bottom: 3px;
+}
+*/
+
+#gallery a p {
+	position: relative;
+	left: 	-110px;
+	bottom: -75px;
+	background-color: #4aaaa5;
+	
+}
+
+.imageBlock {
+	margin: 	0;
+	padding::	0;
+	float: 	left;
+}
+
+.imageBlock img {
+	float: 	left;
+	width: 	150px;
+	padding-right: 	15px;
+	padding-bottom: 10px;
+}
+
+.imageBlock a p {
+	position: relative;
+	color: black;
+	
+	bottom: -75px;
+	height: 	25px;
+	background-color: 	#4aaaa5;
+	background-height: 	20%;
+}
+
+.portfolioLink {
+	float: auto;
+	width: 35px;
+}
 .contactLink {
 	float: auto;
 	width: 35px;
