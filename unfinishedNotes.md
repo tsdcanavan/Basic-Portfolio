@@ -2,8 +2,6 @@ Things that still need work on Basic-Portfolio
 
 css updates needed:
 	Main css
-		- alignment of the underline for the page needs separation from the page name
-		- length of the underline for the page needs to be shortened
 		- add background image display
 		
 	Portfolio page
