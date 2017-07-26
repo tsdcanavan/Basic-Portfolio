@@ -4,7 +4,8 @@ css updates needed:
 	Main css
 		- alignment of the underline for the page needs separation from the page name
 		- length of the underline for the page needs to be shortened
-	
+		- add background image display
+		
 	Portfolio page
 		- background color needs to be added to the portfolio image names
 		- background position needs to be set on the portfolio image names
