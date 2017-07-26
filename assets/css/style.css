@@ -8,7 +8,7 @@ body {
 }
 
 p {
-	padding-left: 	2%;
+	padding-left: 2%;
 }
 
 nav{
@@ -91,10 +91,11 @@ footer {
 	left: 	11%;
 	float: left;
 	width: 50%;
-	margin: 20px 0 0 0;
+	margin: 20px 0 20px 0;
 	padding: 20px 10px 20px 0px;
 	border: 3px solid gray;
 	background-color: 	white;
+
 }
 
 #aboutHeader {
@@ -104,15 +105,16 @@ footer {
 	position: relative;
 	top: -15%;
 	left: 5%;
-	border-bottom: 	3px solid	gray;
-	border-width: 	35%;
-}
+	padding-bottom: 20px;
+	border-bottom: 	3px solid gray;
+	width: 	65%;
+}	
 
 
 #aboutImage {
 	float: left;
 	width: 35%;
-	padding-right: 	2%
+	padding-right: 	2%;
 }
 
 #aboutText {
