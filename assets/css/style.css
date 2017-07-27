@@ -218,6 +218,7 @@ footer {
 .contactLink {
 	float: auto;
 	width: 35px;
+	padding-right: 10px;
 }
 
 .linkImage {
